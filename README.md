@@ -25,6 +25,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
 </div>
 
-### Hobbies 🎮 🎸
+### Hobbies 🎮 🎸 📽 ⚽ 📜 🌊
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=CarloDeDonno)
