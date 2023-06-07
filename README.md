@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on machine learning methods for single-cell genomics.
 - 🌱 I’m currently learning how to survive academia.
-- 💬 Ask me about perturbation modelling, data integrationg, data analysis of -omics data.
+- 💬 Ask me about perturbation modelling, data integration, data analysis of -omics data.
 - 📫 How to reach me: carlo.dedonno@helmholtz-munich.de.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I would prefer not to.
