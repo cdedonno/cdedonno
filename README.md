@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on machine learning methods for single-cell genomics.
-- 🌱 I’m currently learning how to survive academia.
-- 💬 Ask me about perturbation modelling, data integration, data analysis of -omics data.
-- 📫 How to reach me: carlo.dedonno@helmholtz-munich.de.
+- 🔭 I’m currently working on machine learning methods for DNA and RNA sequence modelling.
+- 🌱 I’m currently learning how to make code production-worthy.
+- 💬 Ask me about sequence modelling, perturbation modelling, data integration, data analysis of -omics data.
+- 📫 How to reach me: carlo.de_donno@roche.com.
 - 😄 Pronouns: he/him.
 - ⚡ Fun fact: I would prefer not to.
 
