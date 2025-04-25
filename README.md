@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-
+![](https://komarev.com/ghpvc/?username=cdedonno&color=ff69b4)
 - 🔭 I’m currently working on machine learning methods for DNA and RNA sequence modelling.
 - 🌱 I’m currently learning how to make code production-worthy.
 - 💬 Ask me about sequence modelling, perturbation modelling, data integration, data analysis of -omics data.
